@@ -13,7 +13,7 @@
   // Add code to apply the past, present, or future class to each time
   // block by comparing the id to the current hour. 
 
-  console.log (date.toString());
+  console.log(date.toString());
 
   // Add code to get any user input that was saved in localStorage and set
   // the values of the corresponding textarea elements. 

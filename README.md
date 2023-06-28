@@ -2,8 +2,8 @@
 This web application stores event information according to the time of day, from 9am - 5pm. 
 
 # Link to Application and Repository
-https://juliekim23.github.io/Challenge5/
-https://github.com/juliekim23/Challenge5 
+https://juliekim23.github.io/Calendar-Reminder-App/ 
+https://github.com/juliekim23/Calendar-Reminder-App 
 
 # Acknowledgments
 day.js library was utilised. https://day.js.org/ 
