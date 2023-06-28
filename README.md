@@ -4,7 +4,6 @@ This web application stores event information according to the time of day, from
 
 # Link to Application and Repository
 
-https://juliekim23.github.io/Challenge5 
 https://github.com/juliekim23/Challenge5 
 
 # Acknowledgments
